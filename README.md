@@ -45,7 +45,7 @@ A developing e-commerce website concept for sports and collectible trading cards
 
 ## Connect With Me
 
-- **LinkedIn:** [Marcus Johnson](https://www.linkedin.com/in/laray-desings-07b316100)
+- **LinkedIn:** [Marcus Johnson](https://www.linkedin.com/in/laray-designs-07b316110?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **GitHub:** [LarayPdx](https://github.com/LarayPdx)
 - **Email:** [laray30@gmail.com](mailto:laray30@gmail.com)
 
