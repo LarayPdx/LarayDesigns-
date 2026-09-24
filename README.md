@@ -1,4 +1,4 @@
-# LarayDesigns
+I# LarayDesigns
 # Hi, I'm Marcus Johnson 👋
 
 ### Web Development / Cybersecurity Student | Aspiring Front-End Developer | IT Professional
@@ -21,7 +21,7 @@ I am currently seeking a web development internship or entry-level technology op
 
 <p alin="center">
 <a href="https://developer.apple.com/xcode/html5/">
-<img src="https://img.shields.io/badge/html5-white?logo=html5&logocolor=white" />
+<img src="https://img.shields.io/badge/HTML5-white?logo=html5&logocolor=white" />
 </a>
 <a href="https://developer.apple.com/xcode/css3/">
 <img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white" />
