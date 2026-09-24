@@ -1,4 +1,4 @@
-I# LarayDesigns
+pI# LarayDesigns
 # Hi, I'm Marcus Johnson 👋
 
 ### Web Development / Cybersecurity Student | Aspiring Front-End Developer | IT Professional
@@ -21,34 +21,34 @@ I am currently seeking a web development internship or entry-level technology op
 
 <p alin="center">
 <a href="https://developer.apple.com/xcode/html5/">
-<img src="https://img.shields.io/badge/HTML5-white?logo=html5&logocolor=white" />
+<img src="https://img.shields.io/badge/HTML5-white?logo=html5&logocolor=white"/>
 </a>
 <a href="https://developer.apple.com/xcode/css3/">
-<img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white" />
+<img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white"/>
 </a>
 <a href="https://developer.apple.com/xcode/javascript/">
-<img src="https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript&logocolor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript&logocolor=white"/>
 </a>
 <a href="https://developer.apple.com/xcode/react/">
-<img src="https://img.shields.io/badge/RESCT-orange%20?logo=react&logocolor=white" />
+<img src="https://img.shields.io/badge/RESCT-orange%20?logo=react&logocolor=white"/>
 </a>
 <a href="https://developer.apple.com/xcode/next.js/">
-<img src="https://img.shields.io/badge/NEXT.JS-yellow?logo=next.js&logocolor=white" />
+<img src="https://img.shields.io/badge/NEXT.JS-yellow?logo=next.js&logocolor=white"/>
 </a>
 <a href="https://developer.apple.com/xcode/tailwindcss/">
-<img src="https://img.shields.io/badge/TAILWIND CSS-blue?logo=taileindcss&logocolor=white" />
+<img src="https://img.shields.io/badge/TAILWIND CSS-blue?logo=taileindcss&logocolor=white"/>
 </a>
 <a href="https://developer.apple.com/xcode/node.js & express.js/">
 <img src="https://img.shields.io/badge/NODE.JS&EXPRESS.JS-red?logo=node.js&express.js&logocolor=white" />
 </a>
 <a href="https://developer.apple.com/xcode/vs code/">
-<img src="https://img.shields.io/badge/VS CODE-brown?logo=visualstudiocode&logocolor=white" />
+<img src="https://img.shields.io/badge/VSCODE-brown?logo=visualstudiocode&logocolor=white"/>
 </a>
-<a href="https://developer.apple.com/xcode/structuredquerylanguage  /">
-<img src="https://img.shields.io/badge/SQL-green?logo=structuredquerylanguage &logocolor=white" />
+<a href="https://developer.apple.com/xcode/structuredquerylanguage/">
+<img src="https://img.shields.io/badge/SQL-green?logo=structuredquerylanguage &logocolor=white"/>
 </a>
 <a href="https://developer.apple.com/xcode/css3/">
-<img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white" />
+<img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white"/>
 </a>
 
 Responsive Web Design  
