@@ -42,9 +42,6 @@
 <a href="https://developer.apple.com/xcode/tailwindcss/">
 <img src="https://img.shields.io/badge/TAILWIND CSS-blue?logo=taileindcss&logocolor=white"/>
 </a>
-<a href="https://developer.apple.com/xcode/node.js & express.js/">
-<img src="https://img.shields.io/badge/NODE.JS&EXPRESS.JS-red?logo=node.js&express.js&logocolor=white"/>
-</a>
 <a href="https://developer.apple.com/xcode/bootstrap/">
 <img src="https://img.shields.io/badge/BOOTSTRAP-green?logo=bootstrap&logocolor=white"/>
 </a>
