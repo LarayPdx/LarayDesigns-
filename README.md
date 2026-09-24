@@ -1,7 +1,7 @@
-<h2>LarayDesigns</h2>
-<h3># Hi, I'm Marcus Johnson 👋</h3>
+<h1>LarayDesigns</h1>
+<h2># Hi, I'm Marcus Johnson 👋</h2>
 
-### Web Development / Cybersecurity Student | Aspiring Front-End Developer | IT Professional
+<h3>### Web Development / Cybersecurity Student | Aspiring Front-End Developer | IT Professional</h3>
 
 <h4>I am a Web Development / Cybersecurity student at Full Sail University with an associate degree in Information Technology. I enjoy turning ideas into clean, responsive, and user-friendly websites. My background in healthcare, security, customer service, and entrepreneurship has strengthened my communication, problem-solving, and teamwork skills.</h4>
 
