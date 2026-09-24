@@ -16,8 +16,8 @@ I am currently seeking a web development internship or entry-level technology op
 - 🚀 Founder of TopShelf Web Solutions and TopShelf Trading Cards
 - 📍 Based in Portland, Oregon
 ---
-## Technical Skills
-**Web:**
+## [![My Skills](https://skillicons.dev)](https://skillicons.dev) Technical Skills
+**Website Development:**
 
 <p alin="center">
 <a href="https://developer.apple.com/xcode/html5/">
