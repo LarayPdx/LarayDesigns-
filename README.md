@@ -26,7 +26,14 @@ I am currently seeking a web development internship or entry-level technology op
 <a href="https://developer.apple.com/xcode/css3/">
 <img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white" />
 </a>
-CSS3, JavaScript, Responsive Web Design  
+<a href="https://developer.apple.com/xcode/javascript/">
+<img src="https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&logocolor=white" />
+</a>
+<a href="https://developer.apple.com/xcode/css3/">
+<img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white" />
+</a>
+
+Responsive Web Design  
 **Layout and Design:** Flexbox, CSS Grid, Media Queries, UI/UX Fundamentals  
 **Tools:** Visual Studio Code, Git, GitHub, Chrome DevTools, Canva  
 **IT:** Technical Support, Troubleshooting, Microsoft 365, Computer Hardware
