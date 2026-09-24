@@ -27,7 +27,7 @@ I am currently seeking a web development internship or entry-level technology op
 <img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white" />
 </a>
 <a href="https://developer.apple.com/xcode/javascript/">
-<img src="https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript&logocolor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript&logocolor=white" />
 </a>
 <a href="https://developer.apple.com/xcode/css3/">
 <img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white" />
