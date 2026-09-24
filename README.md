@@ -44,11 +44,8 @@ I am currently seeking a web development internship or entry-level technology op
 <a href="https://developer.apple.com/xcode/vs code/">
 <img src="https://img.shields.io/badge/VSCODE-brown?logo=visualstudiocode&logocolor=white"/>
 </a>
-<a href="https://developer.apple.com/xcode/structuredquerylanguage/">
-<img src="https://img.shields.io/badge/STRUCTURED%20QUERY%20LANGUAGE-green?logo=structuredquerylanguage &logocolor=white"/>
-</a>
-<a href="https://developer.apple.com/xcode/css3/">
-<img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white"/>
+<a href="https://developer.apple.com/xcode/bootstrap/">
+<img src="https://img.shields.io/badge/BOOTSTRAP-green?logo=bootstrap&logocolor=white"/>
 </a>
 
 Responsive Web Design  
