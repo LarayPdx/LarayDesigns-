@@ -29,14 +29,20 @@ I am currently seeking a web development internship or entry-level technology op
 <a href="https://developer.apple.com/xcode/javascript/">
 <img src="https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript&logocolor=white" />
 </a>
-<a href="https://developer.apple.com/xcode/swiftui/">
-<img src="https://img.shields.io/badge/SWIFTUI-orange%20?logo=swiftui&logocolor=white" />
+<a href="https://developer.apple.com/xcode/react/">
+<img src="https://img.shields.io/badge/RESCT-orange%20?logo=react&logocolor=white" />
 </a>
-<a href="https://developer.apple.com/xcode/swiftdata/">
-<img src="https://img.shields.io/badge/SWIFTDATA-yellow?logo=swiftdata&logocolor=white" />
+<a href="https://developer.apple.com/xcode/next.js/">
+<img src="https://img.shields.io/badge/NEXT.JS-yellow?logo=next.js&logocolor=white" />
 </a>
-<a href="https://developer.apple.com/xcode/gamekit/">
-<img src="https://img.shields.io/badge/GAMEKIT-blue?logo=gamekit&logocolor=white" />
+<a href="https://developer.apple.com/xcode/tailwindcss/">
+<img src="https://img.shields.io/badge/TAILWINDCSS-blue?logo=taileindcss&logocolor=white" />
+</a>
+<a href="https://developer.apple.com/xcode/node.js & express.js/">
+<img src="https://img.shields.io/badge/NODE.JS&EXPRESS.JS-red?logo=node.js&express.js&logocolor=white" />
+</a>
+<a href="https://developer.apple.com/xcode/css3/">
+<img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white" />
 </a>
 <a href="https://developer.apple.com/xcode/javascript/">
 <img src="https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript&logocolor=white" />
