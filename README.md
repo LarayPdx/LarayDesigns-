@@ -33,10 +33,10 @@ I am currently seeking a web development internship or entry-level technology op
 <img src="https://img.shields.io/badge/SWIFTUI-orange%20?logo=swiftui&logocolor=white" />
 </a>
 <a href="https://developer.apple.com/xcode/swiftdata/">
-<img src="https://img.shields.io/badge/SWIFTDATA-blue?logo=swiftdata&logocolor=white" />
+<img src="https://img.shields.io/badge/SWIFTDATA-yellow?logo=swiftdata&logocolor=white" />
 </a>
-<a href="https://developer.apple.com/xcode/css3/">
-<img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white" />
+<a href="https://developer.apple.com/xcode/gamekit/">
+<img src="https://img.shields.io/badge/GAMEKIT-blue?logo=gamekit&logocolor=white" />
 </a>
 <a href="https://developer.apple.com/xcode/javascript/">
 <img src="https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript&logocolor=white" />
