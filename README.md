@@ -9,17 +9,19 @@
 
 ---
 
-## About Me
+<h3>## About Me</h3>
 
-- 🎓 Studying Web Development / Cybersecurity at Full Sail University
-- 💻 Building responsive websites with HTML, CSS, and JavaScript
-- 🎨 Interested in front-end development, UI design, and usability
-- 🧩 Learning Git, GitHub, Flexbox, CSS Grid, and responsive design
-- 🚀 Founder of TopShelf Web Solutions and TopShelf Trading Cards
-- 📍 Based in Portland, Oregon
+<h4>- 🎓 Studying Web Development / Cybersecurity at Full Sail University</h4>
+<h4>- 💻 Building responsive websites with HTML, CSS, and JavaScript</h4>
+<h4>- 🎨 Interested in front-end development, UI design, and usability</h4>
+<h4>- 🧩 Learning Git, GitHub, Flexbox, CSS Grid, and responsive design</h4>
+<h4>- 🚀 Founder of TopShelf Web Solutions and TopShelf Trading Cards</h4>
+<h4>- 📍 Based in Portland, Oregon
+
 ---
-## Technical Skills
-**Website Development:**
+<h3>## Technical Skills</h3>
+
+<h4>**Website Development:**</h4>
 
 <p alin="center">
 <a href="https://developer.apple.com/xcode/html5/">
