@@ -18,6 +18,10 @@ I am currently seeking a web development internship or entry-level technology op
 ---
 ## Technical Skills
 
+<p alin="center">
+<a href="https://developer.apple.com/xcode/html5/">
+<img src="https://img.shields.io/badge/HTML5-red?logo=html5&logocolor=white" />
+</a>
 **Web:** HTML5, CSS3, JavaScript, Responsive Web Design  
 **Layout and Design:** Flexbox, CSS Grid, Media Queries, UI/UX Fundamentals  
 **Tools:** Visual Studio Code, Git, GitHub, Chrome DevTools, Canva  
