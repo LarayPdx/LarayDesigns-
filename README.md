@@ -44,8 +44,8 @@ I am currently seeking a web development internship or entry-level technology op
 <a href="https://developer.apple.com/xcode/vs code/">
 <img src="https://img.shields.io/badge/VS CODE-brown?logo=visualstudiocode&logocolor=white" />
 </a>
-<a href="https://developer.apple.com/xcode/javascript/">
-<img src="https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript&logocolor=white" />
+<a href="https://developer.apple.com/xcode/structuredquerylanguage  /">
+<img src="https://img.shields.io/badge/SQL-green?logo=structuredquerylanguage &logocolor=white" />
 </a>
 <a href="https://developer.apple.com/xcode/css3/">
 <img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white" />
