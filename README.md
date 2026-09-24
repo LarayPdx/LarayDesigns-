@@ -3,7 +3,7 @@ pI# LarayDesigns
 
 ### Web Development / Cybersecurity Student | Aspiring Front-End Developer | IT Professional
 
-<h5>I am a Web Development / Cybersecurity student at Full Sail University with an associate degree in Information Technology. I enjoy turning ideas into clean, responsive, and user-friendly websites. My background in healthcare, security, customer service, and entrepreneurship has strengthened my communication, problem-solving, and teamwork skills.</h5>
+<h4>I am a Web Development / Cybersecurity student at Full Sail University with an associate degree in Information Technology. I enjoy turning ideas into clean, responsive, and user-friendly websites. My background in healthcare, security, customer service, and entrepreneurship has strengthened my communication, problem-solving, and teamwork skills.</h4>
 
 <h4>I am currently seeking a web development internship or entry-level technology opportunity where I can continue learning, contribute to real projects, and grow as a developer.</h4>
 ---
