@@ -36,13 +36,13 @@ I am currently seeking a web development internship or entry-level technology op
 <img src="https://img.shields.io/badge/NEXT.JS-yellow?logo=next.js&logocolor=white" />
 </a>
 <a href="https://developer.apple.com/xcode/tailwindcss/">
-<img src="https://img.shields.io/badge/TAILWINDCSS-blue?logo=taileindcss&logocolor=white" />
+<img src="https://img.shields.io/badge/TAILWIND CSS-blue?logo=taileindcss&logocolor=white" />
 </a>
 <a href="https://developer.apple.com/xcode/node.js & express.js/">
 <img src="https://img.shields.io/badge/NODE.JS&EXPRESS.JS-red?logo=node.js&express.js&logocolor=white" />
 </a>
-<a href="https://developer.apple.com/xcode/css3/">
-<img src="https://img.shields.io/badge/CSS3-purple?logo=css3&logocolor=white" />
+<a href="https://developer.apple.com/xcode/vs code/">
+<img src="https://img.shields.io/badge/VS CODE-brown?logo=visualstudiocode&logocolor=white" />
 </a>
 <a href="https://developer.apple.com/xcode/javascript/">
 <img src="https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript&logocolor=white" />
