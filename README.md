@@ -39,7 +39,7 @@ I am currently seeking a web development internship or entry-level technology op
 <img src="https://img.shields.io/badge/TAILWIND CSS-blue?logo=taileindcss&logocolor=white"/>
 </a>
 <a href="https://developer.apple.com/xcode/node.js & express.js/">
-<img src="https://img.shields.io/badge/NODE.JS&EXPRESS.JS-red?logo=node.js&express.js&logocolor=white" />
+<img src="https://img.shields.io/badge/NODE.JS&EXPRESS.JS-red?logo=node.js&express.js&logocolor=white"/>
 </a>
 <a href="https://developer.apple.com/xcode/bootstrap/">
 <img src="https://img.shields.io/badge/BOOTSTRAP-green?logo=bootstrap&logocolor=white"/>
@@ -50,9 +50,22 @@ I am currently seeking a web development internship or entry-level technology op
 <a href="https://developer.apple.com/xcode/webflow/">
 <img src="https://img.shields.io/badge/WEBFLOW-gray?logo=webflow&logocolor=white"/>
 </a>
-
+---
 Responsive Web Design  
-**Layout and Design:** Flexbox, CSS Grid, Media Queries, UI/UX Fundamentals  
+**Layout and Design:** 
+<a href="https://developer.apple.com/xcode/flexbox/">
+<img src="https://img.shields.io/badge/FLEXBOX-black?logo=flexbox&logocolor=white"/>
+</a>
+<a href="https://developer.apple.com/xcode/node.js & express.js/">
+<img src="https://img.shields.io/badge/NODE.JS&EXPRESS.JS-red?logo=node.js&express.js&logocolor=white"/>
+</a>
+<a href="https://developer.apple.com/xcode/bootstrap/">
+<img src="https://img.shields.io/badge/BOOTSTRAP-green?logo=bootstrap&logocolor=white"/>
+</a>
+<a href="https://developer.apple.com/xcode/vs code/">
+<img src="https://img.shields.io/badge/VSCODE-brown?logo=visualstudiocode&logocolor=white"/>
+</a>
+Flexbox, CSS Grid, Media Queries, UI/UX Fundamentals  
 **Tools:** Visual Studio Code, Git, GitHub, Chrome DevTools, Canva  
 **IT:** Technical Support, Troubleshooting, Microsoft 365, Computer Hardware
 ---
