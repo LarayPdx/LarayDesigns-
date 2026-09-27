@@ -88,7 +88,7 @@
 
 ---
 
-<h3>☆GitHub Activity☆</h3>
+<h3>☆GITHUB ACTIVITY☆</h3>
 
 ![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarayPdx&show_icons=true&theme=tokyonight&hide_border=true)
 
