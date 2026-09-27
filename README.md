@@ -38,7 +38,7 @@
 <h4>**Servers**</h4>
 <p><img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" alt="Apache"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"></p>
 
-<h4>##Databases/Orm**</h4>
+<h4>**Databases/Orm**</h4>
 <p><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"></p>
 
 <h4>**Design**</h4>
@@ -96,28 +96,16 @@
 
 ---
 
-<h3>~TopShelf Web Solutions~</h3>
-<h3>A responsive business website for my freelance web-design brand. It includes a hero section, service cards, a portfolio area, navigation, and a contact form.</h3>
+<h3>☆CURRENT GOALS☆</h3>
+
+<h4>● Strengthen my JavaScript skills</h4>
+<h4>● Build and publish portfolio-quality projects</h4>
+<h4>● Learn accessibility and modern front-end best practices</h4>
+<h4>● Earn a web-development internship or entry-level IT position</h4>
 
 ---
 
-### TopShelf Trading Cards
-A developing e-commerce website concept for sports and collectible trading cards, featuring product categories, card displays, and customer-friendly navigation.
-
-> Project repositories, screenshots, and live demos will be added as development continues.
-
----
-
-## Current Goals
-
-- Strengthen my JavaScript skills
-- Build and publish portfolio-quality projects
-- Learn accessibility and modern front-end best practices
-- Earn a web-development internship or entry-level IT position
-
----
-
-## Connect With Me
+<h3>¤CONNECT WITH ME¤</h3>
 
 - **LinkedIn:** [LarayDesigns](https://www.linkedin.com/in/laray-designs-07b316110?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **GitHub:** [LarayPdx](https://github.com/LarayPdx)
