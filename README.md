@@ -19,7 +19,7 @@
 <h4>- 📍 Based in Portland, Oregon
 
 ---
-<h4>## TECHNICAL SKILLS</h4>
+<h2>## TECHNICAL SKILLS</h2>
 
 <h3>**Languages**</h3>
 
