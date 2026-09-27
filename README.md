@@ -1,4 +1,4 @@
-⁹<h1>LarayDesigns</h1>
+⁸⁹<h1>LarayDesigns</h1>
 <h2># Hi, I'm Marcus Johnson 👋</h2>
 
 <h3>### Web Development / Cybersecurity Student | Aspiring Front-End Developer | IT Professional</h3>
@@ -55,12 +55,7 @@
 
 <h2>🐍 My Contribution Snake</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LarayPdx/LarayPdx/output/github-snake-dark.svg">
-  <source
-    media="(prefers
+
 
 ---
 ## Featured Projects
