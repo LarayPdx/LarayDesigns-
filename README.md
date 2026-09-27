@@ -51,51 +51,27 @@
 <h4>**Other**</h4>
 <p><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoftoffice&logoColor=white" alt="Microsoft 365"> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white" alt="Windows"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello"></p>
 
-
-
-
-
-
-
-
- 
-
-
-
-
 ---
 
-Responsive Web Design  
-**Layout and Design:** 
-<a href="https://developer.apple.com/xcode/flexbox/">
-<img src="https://img.shields.io/badge/FLEXBOX-black?logo=flexbox&logocolor=white"/>
-</a>
-<a href="https://developer.apple.com/xcode/css%20grid/">
-<img src="https://img.shields.io/badge/CSS%20GRID-blue?logo=css%20grid&logocolor=white"/>
-</a>
-<a href="https://developer.apple.com/xcode/bootstrap/">
-<img src="https://img.shields.io/badge/BOOTSTRAP-green?logo=bootstrap&logocolor=white"/>
-</a>
-<a href="https://developer.apple.com/xcode/vs code/">
-<img src="https://img.shields.io/badge/VSCODE-brown?logo=visualstudiocode&logocolor=white"/>
-</a>
-Flexbox, CSS Grid, Media Queries, UI/UX Fundamentals  
-**Tools:** Visual Studio Code, Git, GitHub, Chrome DevTools, Canva  
-**IT:** Technical Support, Troubleshooting, Microsoft 365, Computer Hardware
----
 ## Featured Projects
 
 ### Personal Profile Website
 A responsive personal website that introduces my background, interests, education, and web-development goals. It uses semantic HTML, CSS variables, Flexbox, Grid, flip cards, hover effects, and media queries.
+
 ---
+
 ### TopShelf Web Solutions
 A responsive business website for my freelance web-design brand. It includes a hero section, service cards, a portfolio area, navigation, and a contact form.
+
 ---
+
 ### TopShelf Trading Cards
 A developing e-commerce website concept for sports and collectible trading cards, featuring product categories, card displays, and customer-friendly navigation.
 
 > Project repositories, screenshots, and live demos will be added as development continues.
+
 ---
+
 ## Current Goals
 
 - Strengthen my JavaScript skills
