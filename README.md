@@ -19,27 +19,27 @@
 <h4>- 📍 Based in Portland, Oregon
 
 ---
-<h2>## TECHNICAL SKILLS</h2>
+<h3>## TECHNICAL SKILLS</h3>
 
-<h3>**Languages**</h3>
+<h4>**Languages**</h4>
 
-<h3>**Hosting/SaaS**</h3>
+<h4>**Hosting/SaaS**</h4>
 
-<h3>**Framework, Platforms & Libraries**</h3>
+<h4>**Framework, Platforms & Libraries**</h4>
 
-<h3>**Servers**</h3>
+<h4>**Servers**</h4>
 
-<h3>##Databases/Orm**</h3>
+<h4>##Databases/Orm**</h4>
 
-<h3>**Design**</h3>
+<h4>**Design**</h4>
 
-<h3>**Ml/Dl**</h3>
+<h4>**Ml/Dl**</h4>
 
-<h3>**Ci/Cd Vcs**</h3>
+<h4>**Ci/Cd Vcs**</h4>
 
-<h3>**Testing**</h3>
+<h4>**Testing**</h4>
 
-<h3>**Other**</h3>
+<h4>**Other**</h4>
 
 
 
