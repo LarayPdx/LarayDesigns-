@@ -52,7 +52,12 @@
 <p><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoftoffice&logoColor=white" alt="Microsoft 365"> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white" alt="Windows"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello"></p>
 
 ---
+<a href="https://LarayPdx.github.io/LarayDesigns/snake-game.html">
+  <img src="https://img.shields.io/badge/PLAY%20MY%20SNAKE%20GAME-35E083?style=for-the-badge&logo=github&logoColor=white" alt="Play my Snake game">
+</a>
 
+
+---
 ## Featured Projects
 
 ### Personal Profile Website
