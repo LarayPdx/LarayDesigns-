@@ -19,6 +19,7 @@
 <h4>- 📍 Based in Portland, Oregon
 
 ---
+
 <h3>## TECHNICAL SKILLS</h3>
 
 <h4>**Languages**</h4>
@@ -53,11 +54,6 @@
 
 ---
 
-<h2>🐍 My Contribution Snake</h2>
-
-
-
----
 ## Featured Projects
 
 ### Personal Profile Website
@@ -83,11 +79,15 @@ A developing e-commerce website concept for sports and collectible trading cards
 - Build and publish portfolio-quality projects
 - Learn accessibility and modern front-end best practices
 - Earn a web-development internship or entry-level IT position
+
 ---
+
 ## Connect With Me
 
 - **LinkedIn:** [LarayDesigns](https://www.linkedin.com/in/laray-designs-07b316110?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **GitHub:** [LarayPdx](https://github.com/LarayPdx)
 - **Email:** [laray30@gmail.com](mailto:laray30@gmail.com)
+
 ---
+
 Thanks for visiting my profile. I am always interested in learning, collaborating, and connecting with people in technology.
