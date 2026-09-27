@@ -1,4 +1,4 @@
-⁸⁹<h1><b>LARAYDESIGNS</b></h1>
+⁸⁹<h1><center>LARAYDESIGNS</center></h1>
 
 <h2>Hi, I'm Marcus Johnson 👋</h2>
 
