@@ -1,26 +1,30 @@
 ⁸⁹<h1>LarayDesigns</h1>
-<h2># Hi, I'm Marcus Johnson 👋</h2>
 
-<h3>### Web Development / Cybersecurity Student | Aspiring Front-End Developer | IT Professional</h3>
+<h2>Hi, I'm Marcus Johnson 👋</h2>
 
-<h4>I am a Web Development / Cybersecurity student at Full Sail University with an associate degree in Information Technology. I enjoy turning ideas into clean, responsive, and user-friendly websites. My background in healthcare, security, customer service, and entrepreneurship has strengthened my communication, problem-solving, and teamwork skills.</h4>
+<h3>☆Web Development & Cybersecurity Student | Aspiring Front-End Developer | IT Professional☆</h3>
 
-<h4>I am currently seeking a web development internship or entry-level technology opportunity where I can continue learning, contribute to real projects, and grow as a developer.</h4>
+<h4>I am a Web Development and Cybersecurity student at Full Sail University with an associate degree in Information Technology. I enjoy creating clean, responsive, and user-friendly websites. My experience in healthcare, security, customer service, and entrepreneurship has strengthened my communication, problem-solving, and teamwork skills.</h4>
 
----
+<h4>I am currently seeking a **web development internship or entry-level IT opportunity** where I can contribute to real projects while continuing to grow my technical skills.</h4>
 
-<h3>## About Me</h3>
-
-<h4>- 🎓 Studying Web Development / Cybersecurity at Full Sail University</h4>
-<h4>- 💻 Building responsive websites with HTML, CSS, and JavaScript</h4>
-<h4>- 🎨 Interested in front-end development, UI design, and usability</h4>
-<h4>- 🧩 Learning Git, GitHub, Flexbox, CSS Grid, and responsive design</h4>
-<h4>- 🚀 Founder of TopShelf Web Solutions and TopShelf Trading Cards</h4>
-<h4>- 📍 Based in Portland, Oregon
+<h4>📍 Portland, Oregon</h4>
+<h4>🎓 Full Sail University</h4>  
+<h4>💼 Open to internships and entry-level opportunities</h4>
 
 ---
 
-<h3>## TECHNICAL SKILLS</h3>
+<h3>☆ABOUT ME☆</h3>
+
+<h4>○ 💻 Building responsive websites with HTML, CSS, and JavaScript</h4>
+<h4>○ 🎨 Interested in front-end development, UI design, and usability</h4>
+<h4>○ 🧩 Learning Git, GitHub, Flexbox, CSS Grid, and responsive design</h4>
+<h4>○ 🚀 Founder of TopShelf Web Solutions and TopShelf Trading Cards</h4>
+<h4>○ 🤝 Interested in collaborating on beginner-friendly web projects</h4>
+
+---
+
+<h3>☆TECHNICAL SKILLS☆</h3>
 
 <h4>**Languages**</h4>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></p>
@@ -54,15 +58,46 @@
 
 ---
 
-## Featured Projects
+<h3>☆FEATURED PROJECTS☆</h3>
 
-### Personal Profile Website
-A responsive personal website that introduces my background, interests, education, and web-development goals. It uses semantic HTML, CSS variables, Flexbox, Grid, flip cards, hover effects, and media queries.
+<h4>🌐 LarayDesigns Portfolio</h4>
+
+<h4>A responsive portfolio website highlighting my education, skills, experience, and web-development work.</h4>
+
+<h4>[View Repository](https://github.com/LarayPdx/LarayDesigns-Portfolio) · [View Live Website](https://laraypdx.github.io/LarayDesigns-Portfolio/)</h4>
 
 ---
 
-### TopShelf Web Solutions
-A responsive business website for my freelance web-design brand. It includes a hero section, service cards, a portfolio area, navigation, and a contact form.
+<h3>💻 Personal Profile Website</h3>
+
+<h4>A responsive profile website built with semantic HTML, CSS variables, Flexbox, CSS Grid, flip cards, hover effects, and media queries.</h4>
+
+---
+
+<h3>🚀 TopShelf Web Solutions</h3>
+
+<h4>A business website concept for my freelance web-design brand, including a hero section, service cards, portfolio area, navigation, and a contact form.</h4>
+
+---
+
+<h3>🏀 TopShelf Trading Cards</h3>
+
+<h4>An e-commerce website concept for sports and collectible trading cards, featuring product categories, card displays, and customer-friendly navigation.</h4>
+
+<h4>>More repositories, screenshots, and live demonstrations will be added as development continues.</h4>
+
+---
+
+<h3>☆GitHub Activity☆</h3>
+
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarayPdx&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarayPdx&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+<h3>~TopShelf Web Solutions~</h3>
+<h3>A responsive business website for my freelance web-design brand. It includes a hero section, service cards, a portfolio area, navigation, and a contact form.</h3>
 
 ---
 
