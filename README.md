@@ -1,7 +1,5 @@
 ![Marcus Johnson's GitHub banner](02-gold-global-network.png)
 
-</p>
-
 <h1>LARAYDESIGNS</h1>
 
 <h2>Hi, I'm Marcus Johnson 👋</h2>
