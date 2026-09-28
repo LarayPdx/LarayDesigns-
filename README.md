@@ -1,4 +1,4 @@
-![Marcus Johnson's GitHub banner](02-gold-global-network.png)
+o![Marcus Johnson's GitHub banner](02-gold-global-network.png)
 
 
 <h1 align="center">LARAYDESIGNS</h1>
@@ -28,17 +28,17 @@
 
 ---
 
-<h3>☆ABOUT ME☆</h3>
+<h3 align="center">  >☆ABOUT ME☆</h3>
 
-<h4>○ 💻 Building responsive websites with HTML, CSS, and JavaScript</h4>
-<h4>○ 🎨 Interested in front-end development, UI design, and usability</h4>
-<h4>○ 🧩 Learning Git, GitHub, Flexbox, CSS Grid, and responsive design</h4>
-<h4>○ 🚀 Founder of TopShelf Web Solutions and TopShelf Trading Cards</h4>
-<h4>○ 🤝 Interested in collaborating on beginner-friendly web projects</h4>
+<h4 align="center">💻 Building responsive websites with HTML, CSS, and JavaScript</h4>
+<h4 align="center">🎨 Interested in front-end development, UI design, and usability</h4>
+<h4 align="center">🧩 Learning Git, GitHub, Flexbox, CSS Grid, and responsive design</h4>
+<h4 align="center">🚀 Founder of TopShelf Web Solutions and TopShelf Trading Cards</h4>
+<h4 align="center">🤝 Interested in collaborating on beginner-friendly web projects</h4>
 
 ---
 
-<h3>☆🛠️ LANGUAGES AND TOOLS☆</h3>
+<h3 align="center">☆🛠️ LANGUAGES AND TOOLS☆</h3>
 
 <h4>◇Languages◇</h4>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></p>
