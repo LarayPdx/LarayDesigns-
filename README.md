@@ -1,4 +1,4 @@
-![Marcus Johnson's GitHub banner](02-gold-global-network.png)
+o![Marcus Johnson's GitHub banner](02-gold-global-network.png)
 
 
 <h1 align="center">LARAYDESIGNS</h1>
@@ -46,10 +46,10 @@
 
 <p align="center">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=LarayPdx&show_icons=true&theme=tokyonight"
-       alt="Marcus's GitHub stats">
+ src="https://github-readme-stats.vercel.app/api?username=LarayPdx&show_icons=true&theme=tokyonight" alt="Marcus's GitHub stats"></p>
 
-  <img height="165"
+<p align ="center">
+ <img height="165"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarayPdx&layout=compact&theme=tokyonight"
        alt="Most used languages">
 </p>
