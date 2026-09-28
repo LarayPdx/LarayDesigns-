@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="github-banner-options/world.jpg"
+       alt="Digital network banner"
+       width="100%">
+</p>
+
 <h1>LARAYDESIGNS</h1>
 
 <h2>Hi, I'm Marcus Johnson 👋</h2>
