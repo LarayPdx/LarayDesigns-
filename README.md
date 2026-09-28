@@ -22,9 +22,9 @@
 
 <h4 align="center">I am currently seeking a **web development internship or entry-level IT opportunity** where I can contribute to real projects while continuing to grow my technical skills.</h4>
 
-<h4>📍 Portland, Oregon</h4>
-<h4>🎓 Full Sail University</h4>  
-<h4>💼 Open to internships and entry-level opportunities</h4>
+<h4 align="center">📍 Portland, Oregon</h4>
+<h4 align="center">🎓 Full Sail University</h4>  
+<h4 align="center">💼 Open to internships and entry-level opportunities</h4>
 
 ---
 
