@@ -28,7 +28,7 @@ o![Marcus Johnson's GitHub banner](02-gold-global-network.png)
 
 ---
 
-<h3 align="center">  >☆ABOUT ME☆</h3>
+<h3 align="center">☆ABOUT ME☆</h3>
 
 <h4 align="center">💻 Building responsive websites with HTML, CSS, and JavaScript</h4>
 <h4 align="center">🎨 Interested in front-end development, UI design, and usability</h4>
