@@ -1,6 +1,5 @@
----
 ![Marcus Johnson's GitHub banner](02-gold-global-network.png)
----
+
 
 <h1>LARAYDESIGNS</h1>
 
