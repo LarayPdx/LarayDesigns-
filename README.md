@@ -44,7 +44,7 @@
 
 <h3 align="center">📊 GITHUB STATS</h3>
 
-<p>
+<p align="center">
   <img height="165"
        src="https://github-readme-stats.vercel.app/api?username=LarayPdx&show_icons=true&theme=tokyonight"
        alt="Marcus's GitHub stats">
