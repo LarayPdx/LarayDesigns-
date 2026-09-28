@@ -29,12 +29,17 @@
 ---
 
 <h3 align="center">☆ABOUT ME☆</h3>
-
-<h4 align="center">💻 Building responsive websites with HTML, CSS, and JavaScript</h4>
+<h4 align="center">🎓 Studying Web Development and Cybersecurity at Full Sail University      </h4>
+<h4 align="center">💻 Associate degree graduate in Information Technology</h4>
+<h4 align="center">🌱 Building my skills in HTML, CSS, JavaScript, and responsive web design</h4>
 <h4 align="center">🎨 Interested in front-end development, UI design, and usability</h4>
 <h4 align="center">🧩 Learning Git, GitHub, Flexbox, CSS Grid, and responsive design</h4>
+<h4 align="center">🔐 Interested in cybersecurity, IT support, and web development</h4>
+<h4 align="center">🧰 Creating projects for my portfolio and my brands</h4>
 <h4 align="center">🚀 Founder of TopShelf Web Solutions and TopShelf Trading Cards</h4>
 <h4 align="center">🤝 Interested in collaborating on beginner-friendly web projects</h4>
+<h4 align="center">🚀 Seeking internship and entry-level opportunities</h4>
+
 
 ---
 
