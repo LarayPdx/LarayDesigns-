@@ -90,13 +90,13 @@
 
 ---
 
-<h3>☆FEATURED PROJECTS☆</h3>
+<h3 align="center">☆FEATURED PROJECTS☆</h3>
 
-<h4>🌐 LarayDesigns Portfolio</h4>
+<h4 align="center">🌐 LarayDesigns Portfolio</h4>
 
-<h4>A responsive portfolio website highlighting my education, skills, experience, and web-development work.</h4>
+<h4 align="center">A responsive portfolio website highlighting my education, skills, experience, and web-development work.</h4>
 
-<h4>[View Repository](https://github.com/LarayPdx/LarayDesigns-Portfolio) · [View Live Website](https://laraypdx.github.io/LarayDesigns-Portfolio/)</h4>
+<h4 align="center">[View Repository](https://github.com/LarayPdx/LarayDesigns-Portfolio) · [View Live Website](https://laraypdx.github.io/LarayDesigns-Portfolio/)</h4>
 
 ---
 
@@ -117,14 +117,6 @@
 <h4>An e-commerce website concept for sports and collectible trading cards, featuring product categories, card displays, and customer-friendly navigation.</h4>
 
 <h4>>More repositories, screenshots, and live demonstrations will be added as development continues.</h4>
-
----
-
-<h3>☆GITHUB ACTIVITY☆</h3>
-
-![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarayPdx&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarayPdx&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
