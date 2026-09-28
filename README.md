@@ -3,7 +3,7 @@
 
 <h1>LARAYDESIGNS</h1>
 
-<h2>Hi, I'm Marcus Johnson 👋</h2>
+<h2 align="center">Hi, I'm Marcus Johnson 👋</h2>
 
 <h3>☆Web Development & Cybersecurity Student | Aspiring Front-End Developer | IT Professional☆</h3>
 
