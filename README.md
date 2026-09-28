@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi, I'm Marcus Johnson 👋</h2>
 
-<h3>☆Web Development & Cybersecurity Student | Aspiring Front-End Developer | IT Professional☆</h3>
+<h3 align="center">☆Web Development & Cybersecurity Student | Aspiring Front-End Developer | IT Professional☆</h3>
 
 <h4>I am a Web Development and Cybersecurity student at Full Sail University with an associate degree in Information Technology. I enjoy creating clean, responsive, and user-friendly websites. My experience in healthcare, security, customer service, and entrepreneurship has strengthened my communication, problem-solving, and teamwork skills.</h4>
 
