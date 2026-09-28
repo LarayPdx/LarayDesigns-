@@ -1,4 +1,4 @@
-o![Marcus Johnson's GitHub banner](02-gold-global-network.png)
+![Marcus Johnson's GitHub banner](02-gold-global-network.png)
 
 
 <h1 align="center">LARAYDESIGNS</h1>
