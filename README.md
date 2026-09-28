@@ -7,6 +7,12 @@
 
 <h3 align="center">☆Web Development & Cybersecurity Student | Aspiring Front-End Developer | IT Professional☆</h3>
 
+<p align="center">
+  <a href="https://laraypdx.github.io/LarayDesigns-Portfolio/">
+    View My Portfolio
+  </a>
+</p>
+
 <h4>I am a Web Development and Cybersecurity student at Full Sail University with an associate degree in Information Technology. I enjoy creating clean, responsive, and user-friendly websites. My experience in healthcare, security, customer service, and entrepreneurship has strengthened my communication, problem-solving, and teamwork skills.</h4>
 
 <h4>I am currently seeking a **web development internship or entry-level IT opportunity** where I can contribute to real projects while continuing to grow my technical skills.</h4>
