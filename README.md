@@ -40,6 +40,19 @@
 <h4 align="center">🤝 Interested in collaborating on beginner-friendly web projects</h4>
 <h4 align="center">🚀 Seeking internship and entry-level opportunities</h4>
 
+---
+
+<h3 align="center">📊 GITHUB STATS</h3>
+
+<p>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=LarayPdx&show_icons=true&theme=tokyonight"
+       alt="Marcus's GitHub stats">
+
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarayPdx&layout=compact&theme=tokyonight"
+       alt="Most used languages">
+</p>
 
 ---
 
