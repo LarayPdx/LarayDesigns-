@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="github-banner-options/world.jpg"
-       alt="Digital network banner"
-       width="100%">
+![Marcus Johnson's GitHub banner](02-gold-global-network.png)
+
 </p>
 
 <h1>LARAYDESIGNS</h1>
