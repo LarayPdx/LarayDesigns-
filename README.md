@@ -114,21 +114,21 @@
 
 ---
 
-<h3>☆CURRENT GOALS☆</h3>
+<h3 align="center">☆CURRENT GOALS☆</h3>
 
-<h4>● Strengthen my JavaScript skills</h4>
-<h4>● Build and publish portfolio-quality projects</h4>
-<h4>● Learn accessibility and modern front-end best practices</h4>
-<h4>● Earn a web-development internship or entry-level IT position</h4>
-
----
-
-<h3>¤CONNECT WITH ME¤</h3>
-
-- **LinkedIn:** [LarayDesigns](https://www.linkedin.com/in/laray-designs-07b316110?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- **GitHub:** [LarayPdx](https://github.com/LarayPdx)
-- **Email:** [laray30@gmail.com](mailto:laray30@gmail.com)
+<h4 align="center">○ Strengthen my JavaScript skills</h4>
+<h4 align="center">○ Build and publish portfolio-quality projects</h4>
+<h4 align="center">○ Learn accessibility and modern front-end best practices</h4>
+<h4 align="center">○ Earn a web-development internship or entry-level IT position</h4>
 
 ---
 
-Thanks for visiting my profile. I am always interested in learning, collaborating, and connecting with people in technology.
+<h3 align="center">¤CONNECT WITH ME¤</h3>
+
+<h4 align="center">•LinkedIn:• [LarayDesigns](https://www.linkedin.com/in/laray-designs-07b316110?utm_source=share_via&utm_content=profile&utm_medium=member_android)</h4>
+<h4 align"center">•GitHub:• [LarayPdx](https://github.com/LarayPdx)</h4>
+<h4 align"center">•Email:• [laray30@gmail.com](mailto:laray30@gmail.com)</h4>
+
+---
+
+<p align"center">Thanks for visiting my profile. I am always interested in learning, collaborating, and connecting with people in technology.</p>
