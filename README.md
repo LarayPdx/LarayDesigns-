@@ -42,7 +42,7 @@
 
 ---
 
-<h3 align="center">📊 GITHUB STATS</h3>
+<h3 align="center">☆📊 GITHUB STATS☆</h3>
 
 <p align="center">
   <img height="165"
