@@ -127,7 +127,7 @@
 
 <h4 align="center">LinkedIn: [LarayDesigns](https://www.linkedin.com/in/laray-designs-07b316110?utm_source=share_via&utm_content=profile&utm_medium=member_android)</h4>
 <h4 align="center">GitHub: [LarayPdx](https://github.com/LarayPdx)</h4>
-<h4 align="center">Email: [laray30@gmail.com](mailto:laray30@gmail.com)</h4>
+<h4 align="center">Email: [laray30@gmail.com]</h4>
 
 ---
 
