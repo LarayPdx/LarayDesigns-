@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://laraypdx.github.io/LarayDesigns-Portfolio/">
-    View My Portfolio
+   💻View My Portfolio
   </a>
 </p>
 
@@ -97,12 +97,6 @@
 <h4 align="center">A responsive portfolio website highlighting my education, skills, experience, and web-development work.</h4>
 
 <h4 align="center">[View Repository](https://github.com/LarayPdx/LarayDesigns-Portfolio) · [View Live Website](https://laraypdx.github.io/LarayDesigns-Portfolio/)</h4>
-
----
-
-<h3>💻 Personal Profile Website</h3>
-
-<h4>A responsive profile website built with semantic HTML, CSS variables, Flexbox, CSS Grid, flip cards, hover effects, and media queries.</h4>
 
 ---
 
