@@ -100,7 +100,7 @@
 
 ---
 
-<h3>🚀 TopShelf Web Solutions</h3>
+<h3>🚀 TopShelf CS</h3>
 
 <h4>A business website concept for my freelance web-design brand, including a hero section, service cards, portfolio area, navigation, and a contact form.</h4>
 
