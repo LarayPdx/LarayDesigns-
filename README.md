@@ -20,7 +20,7 @@
 
 <h4 align="center">I am a Web Development and Cybersecurity student at Full Sail University with an associate degree in Information Technology. I enjoy creating clean, responsive, and user-friendly websites. My experience in healthcare, security, customer service, and entrepreneurship has strengthened my communication, problem-solving, and teamwork skills.</h4>
 
-<h4 align="center">I am currently seeking a Web development internship or entry-level IT opportunity** where I can contribute to real projects while continuing to grow my technical skills.</h4>
+<h4 align="center">I am currently seeking a <b>web development internship or entry-level IT opportunity</b>where I can contribute to real projects while continuing to grow my technical skills.</h4>
 
 <h4 align="center">📍 Portland, Oregon</h4>
 <h4 align="center">🎓 Full Sail University</h4>  
