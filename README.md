@@ -8,9 +8,8 @@
 <h3 align="center">☆Web Development & Cybersecurity Student | Aspiring Front-End Developer | IT Professional☆</h3>
 
 <p align="center">
-  <a href="https://laraypdx.github.io/LarayDesigns-Portfolio/">
-   💻View My Portfolio
-  </a>
+💻Preview Portfolio 
+![Preview of my LarayDesigns portfolio](portfolio-screenshot.jpg)
 </p>
 
 <p align="center">
@@ -46,7 +45,8 @@
 
 <p align="center">
   <img height="165"
- src="https://github-readme-stats.vercel.app/api?username=LarayPdx&show_icons=true&theme=tokyonight" alt="Marcus's GitHub stats"></p>
+ src="https://github-readme-stats.vercel.app/api?username=LarayPdx&show_icons=true&theme=tokyonight"
+ alt="Marcus's GitHub stats"></p>
 
 <p align ="center">
  <img height="165"
