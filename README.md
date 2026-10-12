@@ -86,33 +86,21 @@
 
 ---
 
+<h3 align="center">☆SCHOOL PROJECTS☆</h3>
+
+<h4 align="center">🌐 LarayDesigns Full Sail Portfolio Screenshots</h4>
+
+---
 <h3 align="center">☆FEATURED PROJECTS☆</h3>
 
-<h4 align="center">🌐 LarayDesigns Portfolio</h4>
+<h3 align="center">🚀 TopShelf CS</h3>
 
-<h4 align="center">A responsive portfolio website highlighting my education, skills, experience, and web-development work.</h4>
-
-<h4 align="center">[View Repository](https://github.com/LarayPdx/LarayDesigns-Portfolio) · [View Live Website](https://laraypdx.github.io/LarayDesigns-Portfolio/)</h4>
-
----
-
-<h3>🚀 TopShelf CS</h3>
-
-<h4>A business website concept for my freelance web-design brand, including a hero section, service cards, portfolio area, navigation, and a contact form.</h4>
-
----
-
-<h3>🏀 TopShelf Trading Cards</h3>
-
-<h4>An e-commerce website concept for sports and collectible trading cards, featuring product categories, card displays, and customer-friendly navigation.</h4>
-
-<h4>>More repositories, screenshots, and live demonstrations will be added as development continues.</h4>
+<h4 align="center">My business website freelance web-design brand, including a hero section, is Coming Soon</h4>
 
 ---
 
 <h3 align="center">☆CURRENT GOALS☆</h3>
 
-<h4 align="center">○ Strengthen my JavaScript skills</h4>
 <h4 align="center">○ Build and publish portfolio-quality projects</h4>
 <h4 align="center">○ Learn accessibility and modern front-end best practices</h4>
 <h4 align="center">○ Earn a web-development internship or entry-level IT position</h4>
