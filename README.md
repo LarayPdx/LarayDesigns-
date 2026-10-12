@@ -93,12 +93,12 @@
 
 <p align="center">
 <a href="MakeitResponsive1.jpg" target="_blank" rel="noopener">
-  View my portfolio screenshot
+  Make it Responsive 4.6 1/2
 </a>
 </p>
 <p align="center">
 <a href="MakeitResponsive2.jpg" target="_blank" rel="noopener">
-  View my portfolio screenshot
+  Make it Responsive 4.6 2/2
 </a>
 </p>
 ---
