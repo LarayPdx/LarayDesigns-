@@ -101,7 +101,9 @@
   Make it Responsive 4.6 2/2
 </a>
 </p>
+
 ---
+
 <h3 align="center">☆FEATURED PROJECTS☆</h3>
 
 <h3 align="center">🚀 TopShelf CS</h3>
