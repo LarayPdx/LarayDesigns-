@@ -9,7 +9,9 @@
 
 <p align="center">
 💻Preview Portfolio 
-![Preview of my LarayDesigns portfolio](portfolio-screenshot.jpg)
+  <a href="portfolio-screenshot.jpg" target="_blank" rel="noopener">
+  View my portfolio screenshot
+</a>
 </p>
 
 <p align="center">
