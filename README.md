@@ -8,15 +8,9 @@
 <h3 align="center">☆Web Development & Cybersecurity Student | Aspiring Front-End Developer | IT Professional☆</h3>
 
 <p align="center">
-💻Preview Portfolio 
-  <a href="portfolio-screenshot.jpg" target="_blank" rel="noopener">
+💻 <a href="portfolio-screenshot.jpg" target="_blank" rel="noopener">
   View my portfolio screenshot
 </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LarayPdx&label=Profile%20views&color=0e75b6&style=flat"
-       alt="Profile views">
 </p>
 
 <h4 align="center">I am a Web Development and Cybersecurity student at Full Sail University with an associate degree in Information Technology. I enjoy creating clean, responsive, and user-friendly websites. My experience in healthcare, security, customer service, and entrepreneurship has strengthened my communication, problem-solving, and teamwork skills.</h4>
