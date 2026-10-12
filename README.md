@@ -90,6 +90,17 @@
 
 <h4 align="center">🌐 LarayDesigns Full Sail Portfolio Screenshots</h4>
 
+
+<p align="center">
+<a href="MakeitResponsive1.jpg" target="_blank" rel="noopener">
+  View my portfolio screenshot
+</a>
+</p>
+<p align="center">
+<a href="MakeitResponsive2.jpg" target="_blank" rel="noopener">
+  View my portfolio screenshot
+</a>
+</p>
 ---
 <h3 align="center">☆FEATURED PROJECTS☆</h3>
 
