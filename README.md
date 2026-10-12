@@ -1,8 +1,5 @@
 ![Marcus Johnson's GitHub banner](LDss.jpg)
 
-
-<h1 align="center">LARAYDESIGNS</h1>
-
 <h2 align="center">Hi, I'm Marcus Johnson 👋</h2>
 
 <h3 align="center">☆Web Development & Cybersecurity Student | Aspiring Front-End Developer | IT Professional☆</h3>
