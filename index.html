@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Marcus Johnson is a web development student and IT graduate building responsive, accessible websites.">
+  <meta name="theme-color" content="#f5f5f4">
+  <title>Marcus Johnson | LarayDesigns</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <main class="portfolio-shell">
+    <header class="site-header">
+      <a class="wordmark" href="#home" aria-label="LarayDesigns home">Laray<span>Designs</span></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation">
+        <span></span><span></span>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <a href="#home" class="nav-link active">Home</a>
+        <a href="#about" class="nav-link">About</a>
+        <a href="#projects" class="nav-link">Projects</a>
+        <a href="#skills" class="nav-link">Skills</a>
+        <a href="#contact" class="nav-link">Contact</a>
+      </nav>
+      <a class="header-mark" href="#home" aria-label="Marcus Johnson">LD</a>
+      <a class="github-link" href="https://github.com/LarayPdx" target="_blank" rel="noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+    </header>
+
+    <section class="hero section-pad" id="home" aria-labelledby="hero-title">
+      <div class="hero-art">
+        <div class="art-glow" aria-hidden="true"></div>
+        <img class="portrait" src="IMA/laray.jpg" alt="Colorful watercolor illustration of a creative developer in profile">
+        </div>
+      <div class="hero-copy">
+        <p class="eyebrow">WEB DEVELOPMENT · DESIGN · IT</p>
+        <h1 id="hero-title">Turning ideas into experiences <span>with code &amp; design.</span></h1>
+        <p class="hero-text">Hi, I’m Marcus Johnson. I’m an IT graduate and Web Design &amp; Development student building thoughtful, responsive websites one project at a time.</p>
+        <div class="hero-tags" aria-label="Primary technologies"><span>HTML</span><span>CSS</span><span>JavaScript</span></div>
+        <div class="hero-actions">
+          <a class="button button-dark" href="#projects">Explore my work <span aria-hidden="true">↘</span></a>
+          <a class="text-link" href="#contact">Let’s connect <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+    </section>
+
+    <section class="about section-pad" id="about" aria-labelledby="about-title">
+      <div class="section-heading"><p class="eyebrow">A LITTLE ABOUT ME</p><h2 id="about-title">Curious by nature.<br><span>Builder by practice.</span></h2></div>
+      <div class="about-copy">
+        <p>I earned an Associate Degree in Information Technology and am continuing my education in Web Design &amp; Development at Full Sail University. I enjoy combining what I’ve learned about technology with clean layouts and useful details.</p>
+        <p>I’m currently growing my skills in front-end development, responsive design, accessibility, and cybersecurity. My past customer service and operations experience taught me to listen carefully, solve problems, and keep learning.</p>
+        <a class="text-link" href="https://github.com/LarayPdx" target="_blank" rel="noreferrer">More about my work on GitHub <span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+
+    <section class="projects section-pad" id="projects" aria-labelledby="projects-title">
+      <div class="section-title-row"><div><p class="eyebrow">SELECTED PRACTICE PROJECTS</p><h2 id="projects-title">Things I’m building</h2></div><span class="project-count">01 — 03</span></div>
+      <div class="project-grid">
+        <article class="project-card project-blue">
+          <div class="project-visual visual-bmi" aria-hidden="true"><span class="visual-label">BMI</span><span class="visual-line"></span><span class="visual-chip">healthy habits</span></div>
+          <div class="project-meta"><span>HTML · CSS · JavaScript</span><span>01</span></div>
+          <h3>BMI Calculator</h3>
+          <p>A responsive calculator that accepts height and weight, checks entries, and shows a BMI result.</p>
+          <a href="https://github.com/LarayPdx?tab=repositories" target="_blank" rel="noreferrer" aria-label="View BMI Calculator projects on GitHub">View on GitHub <span aria-hidden="true">↗</span></a>
+        </article>
+        <article class="project-card project-violet">
+          <div class="project-visual visual-milk" aria-hidden="true"><span class="milk-drop">◒</span><span class="visual-label">1 GAL</span><span class="visual-chip">cups · pints · quarts</span></div>
+          <div class="project-meta"><span>HTML · CSS · JavaScript</span><span>02</span></div>
+          <h3>Milk Measurement Converter</h3>
+          <p>A form-based practice app that converts gallons and updates the selected measurement results.</p>
+          <a href="https://github.com/LarayPdx?tab=repositories" target="_blank" rel="noreferrer" aria-label="View Milk Converter projects on GitHub">View on GitHub <span aria-hidden="true">↗</span></a>
+        </article>
+        <article class="project-card project-gold">
+          <div class="project-visual visual-portfolio" aria-hidden="true"><span class="mini-window"><i></i><i></i><i></i><b>My portfolio</b><em>Design · Build · Learn</em></span></div>
+          <div class="project-meta"><span>HTML · CSS · Responsive Design</span><span>03</span></div>
+          <h3>LarayDesigns Portfolio</h3>
+          <p>A personal portfolio for sharing my background, learning journey, and web development projects.</p>
+          <a href="https://github.com/LarayPdx?tab=repositories" target="_blank" rel="noreferrer" aria-label="View LarayDesigns portfolio on GitHub">View on GitHub <span aria-hidden="true">↗</span></a>
+        </article>
+      </div>
+    </section>
+
+    <section class="skills section-pad" id="skills" aria-labelledby="skills-title">
+      <div><p class="eyebrow">TOOLS I’M LEARNING</p><h2 id="skills-title">My toolkit</h2></div>
+      <div class="skill-list"><span>HTML5</span><span>CSS3</span><span>JavaScript</span><span>Responsive Design</span><span>Git &amp; GitHub</span><span>Accessibility</span><span>IT Support</span><span>Cybersecurity Basics</span></div>
+    </section>
+
+    <section class="contact section-pad" id="contact" aria-labelledby="contact-title">
+      <div><p class="eyebrow">HAVE A PROJECT OR OPPORTUNITY?</p><h2 id="contact-title">Let’s make something<br><span>useful together.</span></h2></div>
+      <a class="button button-light" href="https://github.com/LarayPdx" target="_blank" rel="noreferrer">Connect on GitHub <span aria-hidden="true">↗</span></a>
+    </section>
+
+    <footer class="site-footer"><a href="#home" class="footer-brand">LarayDesigns</a><span>Designed &amp; Built by: Marcus Johnson</span><span>© <span id="year">2026</span></span></footer>
+  </main>
+</body>
+</html>
