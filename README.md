@@ -1,4 +1,4 @@
-poMN![Marcus Johnson's GitHub banner](LDss.jpg)
+[Marcus Johnson's GitHub banner](LDss.jpg)
 
 <h2 align="center"> WELCOME 2 MY WORLD</h2>
 
@@ -105,9 +105,10 @@ poMN![Marcus Johnson's GitHub banner](LDss.jpg)
 <a href="Get ConnectedJs.jpg" target="_blank" rel="noopener">
   Get Connected 1.1 Code Exercise 01 JS</a>
 <p align="center">
-<a href=".jpg" target="_blank" rel="noopener">
-  Story Time 1.4 Code Exercise 02
-</a>
+<a href="StoryTime.jpg" target="_blank" rel="noopener">
+  Story Time 1.4 Code Exercise 02</a>
+<a href="StoryTimeJs.jpg" target="_blank" rel="noopener">
+  Story Time 1.4 Code Exercise 02</a>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
   Let's Go Shopping 2.2 Code Exercise 03
