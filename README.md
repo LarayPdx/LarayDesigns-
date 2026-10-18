@@ -90,49 +90,52 @@
 
 <p align="center">
 <a href="MakeitResponsive1.jpg" target="_blank" rel="noopener">
-  Make it Responsive 4.6 1/2
-</a>
-</p>
-<p align="center">
+  Make it Responsive 4.6 1/2</a>
 <a href="MakeitResponsive2.jpg" target="_blank" rel="noopener">
-  Make it Responsive 4.6 2/2
-</a>
+  Make it Responsive 4.6 2/2</a>
+</p>
+
 <p align="center">Introduction to Development I </p>
 
 <p align="center">
 <a href="GetConnected.jpg" target="_blank" rel="noopener">
   Get Connected 1.1 Code Exercise 01</a>
 <a href="Get ConnectedJs.jpg" target="_blank" rel="noopener">
-  Get Connected 1.1 Code Exercise 01 JS</a>
+  Get Connected 1.1 Code Exercise 01 JAVASCRIPT</a>
 <p align="center">
 <a href="StoryTime.jpg" target="_blank" rel="noopener">
   Story Time 1.4 Code Exercise 02</a>
 <a href="StoryTimeJs.jpg" target="_blank" rel="noopener">
-  Story Time 1.4 Code Exercise 02</a>
+  Story Time 1.4 Code Exercise 02 JAVASCRIPT</a>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
-  Let's Go Shopping 2.2 Code Exercise 03
-</a>
+  Let's Go Shopping 2.2 Code Exercise 03</a>
+<a href=".jpg" target="_blank" rel="noopener">
+  Let's Go Shopping 2.2 Code Exercise 03 JAVASCRIPT</a>
 </p>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
-  Conditionals 2.6 Code Exercise 04
-</a>
+  Conditionals 2.6 Code Exercise 04</a>
+<a href=".jpg" target="_blank" rel="noopener">
+  Conditionals 2.6 Code Exercise 04JAVASCRIPT</a>
 </p>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
-  QuerySelector 3.4 Code Exercise 05
-</a>
+  QuerySelector 3.4 Code Exercise 05</a>
+<a href=".jpg" target="_blank" rel="noopener">
+  QuerySelector 3.4 Code Exercise 05JAVASCRIPT</a>
 </p>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
-  HTML Forms 3.6 Code Exercise 06
-</a>
+  HTML Forms 3.6 Code Exercise 06</a>
+<a href=".jpg" target="_blank" rel="noopener">
+  HTML Forms 3.6 Code Exercise 06 JAVASCRIPT</a>
 </p>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
-  Final Project 4.2 Code Exercise 07
-</a>
+  Final Project 4.2 Code Exercise 07</a>
+<a href=".jpg" target="_blank" rel="noopener">
+  Final Project 4.2 Code Exercise 07JAVASCRIPT</a>
 </p>
 
 ---
