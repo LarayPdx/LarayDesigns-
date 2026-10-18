@@ -1,4 +1,4 @@
-oMN![Marcus Johnson's GitHub banner](LDss.jpg)
+poMN![Marcus Johnson's GitHub banner](LDss.jpg)
 
 <h2 align="center"> WELCOME 2 MY WORLD</h2>
 
@@ -112,8 +112,7 @@ oMN![Marcus Johnson's GitHub banner](LDss.jpg)
   Let's Go Shopping 2.2 Code Exercise 03
 </a>
 </p>
-<
-p align="center">
+<p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
   Conditionals 2.6 Code Exercise 04
 </a>
