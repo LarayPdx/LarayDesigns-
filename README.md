@@ -100,44 +100,38 @@
 <p align="center">
 <a href="GetConnected.jpg" target="_blank" rel="noopener">
   Get Connected 1.1 Code Exercise 01</a>
-<div>
 <a href="Get ConnectedJs.jpg" target="_blank" rel="noopener">
-  Get Connected 1.1 JAVASCRIPT</a>
+  Get Connected 1.1 JAVASCRIPT</a></p>
 <p align="center">
 <a href="StoryTime.jpg" target="_blank" rel="noopener">
   Story Time 1.4 Code Exercise 02</a>
 <a href="StoryTimeJs.jpg" target="_blank" rel="noopener">
-  Story Time 1.4 JAVASCRIPT</a>
+  Story Time 1.4 JAVASCRIPT</a></p>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
   Let's Go Shopping 2.2 Code Exercise 03</a>
 <a href=".jpg" target="_blank" rel="noopener">
-  Let's Go Shopping 2.2 JAVASCRIPT</a>
-</p>
+  Let's Go Shopping 2.2 JAVASCRIPT</a></p>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
   Conditionals 2.6 Code Exercise 04</a>
 <a href=".jpg" target="_blank" rel="noopener">
-  Conditionals 2.6 JAVASCRIPT</a>
-</p>
+  Conditionals 2.6 JAVASCRIPT</a></p>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
   QuerySelector 3.4 Code Exercise 05</a>
 <a href=".jpg" target="_blank" rel="noopener">
-  QuerySelector 3.4 JAVASCRIPT</a>
-</p>
+  QuerySelector 3.4 JAVASCRIPT</a></p>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
   HTML Forms 3.6 Code Exercise 06</a>
 <a href=".jpg" target="_blank" rel="noopener">
-  HTML Forms 3.6 JAVASCRIPT</a>
-</p>
+  HTML Forms 3.6 JAVASCRIPT</a></p>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
   Final Project 4.2 Code Exercise 07</a>
 <a href=".jpg" target="_blank" rel="noopener">
-  Final Project 4.2 JAVASCRIPT</a>
-</p>
+  Final Project 4.2 JAVASCRIPT</a></p>
 
 ---
 
