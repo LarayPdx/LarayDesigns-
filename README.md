@@ -1,4 +1,4 @@
-![Marcus Johnson's GitHub banner](LDss.jpg)
+oMN![Marcus Johnson's GitHub banner](LDss.jpg)
 
 <h2 align="center"> WELCOME 2 MY WORLD</h2>
 
@@ -96,6 +96,41 @@
 <p align="center">
 <a href="MakeitResponsive2.jpg" target="_blank" rel="noopener">
   Make it Responsive 4.6 2/2
+</a>
+<p align="center">Introduction to Development I </p>
+
+<p align="center">
+<a href=".jpg" target="_blank" rel="noopener">
+  Get Connected 1.1 Code Exercise 01
+</a>
+<p align="center">
+<a href=".jpg" target="_blank" rel="noopener">
+  Story Time 1.4 Code Exercise 02
+</a>
+<p align="center">
+<a href=".jpg" target="_blank" rel="noopener">
+  Let's Go Shopping 2.2 Code Exercise 03
+</a>
+</p>
+<
+p align="center">
+<a href=".jpg" target="_blank" rel="noopener">
+  Conditionals 2.6 Code Exercise 04
+</a>
+</p>
+<p align="center">
+<a href=".jpg" target="_blank" rel="noopener">
+  QuerySelector 3.4 Code Exercise 05
+</a>
+</p>
+<p align="center">
+<a href=".jpg" target="_blank" rel="noopener">
+  HTML Forms 3.6 Code Exercise 06
+</a>
+</p>
+<p align="center">
+<a href=".jpg" target="_blank" rel="noopener">
+  Final Project 4.2 Code Exercise 07
 </a>
 </p>
 
