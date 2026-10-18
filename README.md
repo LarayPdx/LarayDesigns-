@@ -100,9 +100,10 @@ poMN![Marcus Johnson's GitHub banner](LDss.jpg)
 <p align="center">Introduction to Development I </p>
 
 <p align="center">
-<a href=".jpg" target="_blank" rel="noopener">
-  Get Connected 1.1 Code Exercise 01
-</a>
+<a href="Get Connected.jpg" target="_blank" rel="noopener">
+  Get Connected 1.1 Code Exercise 01</a>
+<a href="Get ConnectedJs.jpg" target="_blank" rel="noopener">
+  Get Connected 1.1 Code Exercise 01 JS</a>
 <p align="center">
 <a href=".jpg" target="_blank" rel="noopener">
   Story Time 1.4 Code Exercise 02
