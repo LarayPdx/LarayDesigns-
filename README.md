@@ -100,6 +100,7 @@
 <p align="center">
 <a href="GetConnected.jpg" target="_blank" rel="noopener">
   Get Connected 1.1 Code Exercise 01</a>
+<div>
 <a href="Get ConnectedJs.jpg" target="_blank" rel="noopener">
   Get Connected 1.1 JAVASCRIPT</a>
 <p align="center">
