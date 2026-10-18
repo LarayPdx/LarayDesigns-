@@ -1,4 +1,4 @@
-[Marcus Johnson's GitHub banner](LDss.jpg)
+![Marcus Johnson's GitHub banner](LDss.jpg)
 
 <h2 align="center"> WELCOME 2 MY WORLD</h2>
 
